@@ -144,9 +144,11 @@ Automated customer support and lead qualification.
 > **This image won't work until you configure the GitHub Action.**
 
 ```md
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/adamlorchn19-arch/adamlorchn19-arch/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
 ```
 
 ---
