@@ -5,24 +5,26 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/adamlorchn19-arch"><img src="https://img.shields.io/github/followers/lourchan?label=Followers&style=for-the-badge"/></a>
+  <a href="https://github.com/adamlorchn19-arch">
+    <img src="https://img.shields.io/github/followers/adamlorchn19-arch?label=Followers&style=for-the-badge" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=adamlorchn19-arch&label=Profile+Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 💻 Frontend Developer
 - 🤖 AI Automation Developer
 - ⚡ n8n Specialist
 - 🌍 Based in Algeria
 - 🏥 Building AI systems for clinics and businesses
-- 📚 Currently learning **AI Agents, LangChain, FastAPI, and advanced Python**
+- 📚 Currently learning **AI Agents, LangChain, FastAPI, Advanced Python, and Docker**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
@@ -30,69 +32,64 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp" />
 </p>
 
-### ⚛️ Web & Frameworks
+### ⚛️ Frameworks & Libraries
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,fastapi" />
 </p>
 
-### 🗄️ Database & Tools
+### 🗄️ Databases & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgresql,supabase,docker,git,github" />
 </p>
 
-### 🤖 Automation & AI
+### 🤖 AI & Automation
 
 <p>
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adamlorchn19-arch&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamlorchn19-arch&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adamlorchn19-arch&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamlorchn19-arch&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lourchan&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=adamlorchn19-arch&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
 ### 🏥 DentFlow
-
 AI-powered dental clinic management system.
 
 ### 📈 Business Lead Collector
-
-Google Maps + Website scraper for lead generation.
+Google Maps & Business Website Lead Scraper.
 
 ### 💬 WhatsApp AI Sender
-
-Bulk WhatsApp automation system.
+Bulk WhatsApp messaging and AI automation.
 
 ### 🌐 Lourenex Agency
+Professional websites and AI automation services.
 
-Professional agency website and client automation platform.
-
-### 🤖 AI Instagram DM Agent
-
-Automated customer support and lead collection.
+### 🤖 Instagram AI DM Agent
+Automated customer support and lead qualification.
 
 ---
 
-## 📈 Skill Progress
+# 📈 Skill Progress
 
 | Skill | Level |
-|-------|------|
+|--------|--------|
 | HTML | ⭐⭐⭐⭐⭐ |
 | CSS | ⭐⭐⭐⭐⭐ |
 | JavaScript | ⭐⭐⭐⭐ |
@@ -104,39 +101,56 @@ Automated customer support and lead collection.
 
 ---
 
-## 🎯 Current Goals
+# 🎯 Current Goals
 
-- ✔ Master AI Agents
-- ✔ Learn LangGraph
-- ✔ Build SaaS products
-- ✔ Grow **Lourenex**
-- ✔ Reach **10k€/month**
+- ✅ Master AI Agents
+- ✅ Learn LangGraph
+- ✅ Build SaaS Products
+- ✅ Grow Lourenex Agency
+- ✅ Reach €10K/month
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/adamlorchn19-arch"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/adamlorchn19-arch">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/YOUR_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 💡 Quote
+# 💡 Favorite Quote
 
-> **“Automation is not replacing people. It is replacing repetitive work.”**
+> *"Automation is not replacing people. It is replacing repetitive work."*
 
 ---
 
+## 🐍 Contribution Snake
+
+> **This image won't work until you configure the GitHub Action.**
+
+```md
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/adamlorchn19-arch/adamlorchn19-arch/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
+```
 
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
+⭐ Thanks for visiting my profile! ⭐
 </p>
