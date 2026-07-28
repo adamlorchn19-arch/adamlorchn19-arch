@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lourchan"><img src="https://img.shields.io/github/followers/lourchan?label=Followers&style=for-the-badge"/></a>
-  <img src="https://komarev.com/ghpvc/?username=lourchan&label=Profile+Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://github.com/adamlorchn19-arch"><img src="https://img.shields.io/github/followers/lourchan?label=Followers&style=for-the-badge"/></a>
+  <img src="https://komarev.com/ghpvc/?username=adamlorchn19-arch&label=Profile+Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
@@ -118,7 +118,7 @@ Automated customer support and lead collection.
 
 <p align="center">
   <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/lourchan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/adamlorchn19-arch"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
